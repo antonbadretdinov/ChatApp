@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/border_design.xml" value="0.357" />
         <entry key="..\:/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/edit_txt_style.xml" value="0.189" />
         <entry key="..\:/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_btnimage.xml" value="0.32" />
         <entry key="..\:/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
