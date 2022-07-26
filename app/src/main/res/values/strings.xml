@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ChatApp</string>
+    <string name="sendButton">Button for sending messages</string>
+    <string name="write_a_message">Write a message...</string>
 </resources>
